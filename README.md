@@ -1,3 +1,5 @@
 ## To Do List
 
-![image](./img/todolist.png)
+<br>
+
+<img src= "./img/todolist.png">
